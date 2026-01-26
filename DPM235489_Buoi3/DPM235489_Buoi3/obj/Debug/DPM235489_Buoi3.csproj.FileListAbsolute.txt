@@ -1,0 +1,10 @@
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\bin\Debug\DPM235489_Buoi3.exe.config
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\bin\Debug\DPM235489_Buoi3.exe
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\bin\Debug\DPM235489_Buoi3.pdb
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\obj\Debug\DPM235489_Buoi3.csproj.AssemblyReference.cache
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\obj\Debug\DPM235489_Buoi3.Form1.resources
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\obj\Debug\DPM235489_Buoi3.Properties.Resources.resources
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\obj\Debug\DPM235489_Buoi3.csproj.GenerateResource.cache
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\obj\Debug\DPM235489_Buoi3.csproj.CoreCompileInputs.cache
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\obj\Debug\DPM235489_Buoi3.exe
+Z:\DPM235489_Buoi3\DPM235489_Buoi3\obj\Debug\DPM235489_Buoi3.pdb
